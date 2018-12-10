@@ -18,7 +18,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://91chengbei.com/app/download/iOS/chengbei.ipa</string>
+                        <string>http://91chengbei.com/app/download/ios/chengbei.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -26,7 +26,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://91chengbei.com/app/download/iOS/icon-512.png</string>
+                        <string>http://91chengbei.com/app/download/ios/icon-512.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -34,7 +34,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://91chengbei.com/app/download/iOS/icon-57.png</string>
+                        <string>http://91chengbei.com/app/download/ios/icon-57.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
